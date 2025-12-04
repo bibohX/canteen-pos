@@ -1,0 +1,7 @@
+{
+  "name": "Smart Canteen System",
+  "description": "A comprehensive canteen management system for students, staff, and admins featuring wallet management, QR code payments, and AI-powered insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
